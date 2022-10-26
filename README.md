@@ -1,6 +1,10 @@
 # FuYao - Go 扶摇直上九万里 - 不再开源 维护中...
 
-##  [加入Discord](https://discord.gg/GCZzJmzW3G)｜[问题反馈](https://github.com/ExpLangcn/FuYao-Go/issues)|[漏洞列表](https://github.com/ExpLangcn/FuYao-Go/blob/main/README.md#%E6%BC%8F%E6%B4%9E%E5%88%97%E8%A1%A8)
+- 我的后续安全项目将会发布在：**[Security-Magic-Weapon 组织](https://github.com/Security-Magic-Weapon) 点击查看！**
+- Telegram频道：**[安全技术资讯聚合](https://t.me/secgzh) 实时更新国内外700+个黑客安全技术论坛/社区/博客/公众号的技术文章.**
+- Telegram频道：**[安全资源整合互推](https://t.me/secyq) 一个用于收录Telegram上 安全行业 黑客技术 并且还会自动推送最新的CVE漏洞、CNVD漏洞、最新的红队工具等。**
+
+## [问题反馈](https://github.com/ExpLangcn/FuYao-Go/issues)|[漏洞列表](https://github.com/ExpLangcn/FuYao-Go/blob/main/README.md#%E6%BC%8F%E6%B4%9E%E5%88%97%E8%A1%A8)
 
 **自动化进行目标资产探测和安全漏洞扫描｜适用于赏金活动、SRC活动、大规模使用、大范围使用|通过使用被动在线资源来发现网站的有效子域｜使用零误报的定制模板向目标发送请求，同时可以对大量主机进行快速扫描。｜提供TCP、DNS、HTTP、FILE等各类协议的扫描，通过强大且灵活的模板，模拟各种安全检查**
 
