@@ -1,8 +1,7 @@
 # FuYao - Go 扶摇直上九万里 - 不再开源 维护中...
 
+- 😄 I’m ExpLang [**Twitter**](https://twitter.com/ExpLang_Cn)、[**Discord社区**](https://discord.gg/mnD8pbU4Zw)**实时更新国内外700+个黑客安全技术论坛/社区/博客/公众号的技术文章.自动推送最新的CVE漏洞、CNVD漏洞、最新的红队工具等。**
 - 我的后续安全项目将会发布在：**[Security-Magic-Weapon 组织](https://github.com/Security-Magic-Weapon) 点击查看！**
-- Telegram频道：**[安全技术资讯聚合](https://t.me/sec_info) 实时更新国内外700+个黑客安全技术论坛/社区/博客/公众号的技术文章.**
-- Telegram频道：**[安全资源整合互推](https://t.me/secyq) 一个用于收录Telegram上 安全行业 黑客技术 并且还会自动推送最新的CVE漏洞、CNVD漏洞、最新的红队工具等。**
 
 ## [问题反馈](https://github.com/ExpLangcn/FuYao-Go/issues)|[漏洞列表](https://github.com/ExpLangcn/FuYao-Go/blob/main/README.md#%E6%BC%8F%E6%B4%9E%E5%88%97%E8%A1%A8)
 
