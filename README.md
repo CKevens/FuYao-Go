@@ -136,8 +136,6 @@ Shodan:
 
 <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h17yaq5zf6j20u012aq5x.jpg" alt="image-20220413113316684" style="zoom: 33%;" />
 
-#### **[加入Discord](https://discord.gg/GCZzJmzW3G)**
-
 ----
 
 ### 漏洞列表
