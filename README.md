@@ -1,3 +1,9 @@
+**停止更新（暂不归档处理），尽快恢复更新**
+
+**[点击关注 Twitter](https://twitter.com/ExpLang_Cn) 以便快速了解我的动态.**
+
+----
+
 # FuYao - Go 扶摇直上九万里 - 不再开源 维护中...
 
 #### 😄 I’m ExpLang [**Twitter**](https://twitter.com/ExpLang_Cn) 欢迎关注fo～
